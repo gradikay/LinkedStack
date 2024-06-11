@@ -1,5 +1,5 @@
 /**
- * This Java class checks if a given string
+ * This Generic Java program checks if a given string
  * is a palindrome containing only numbers and letters.
  * @author Gradi Kayamba
  * @version 6/11/24
@@ -7,7 +7,7 @@
 
 public class IsPalindrome {
 	/**
-	 * This method checks if a string is a palindrome.
+	 * This method will checks if a string is a palindrome.
 	 * @param string the string to check
 	 * @return true if the string is a palindrome, false otherwise
 	 */
