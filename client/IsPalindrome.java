@@ -7,7 +7,7 @@
 
 public class IsPalindrome {
 	/**
-	 * This method will checks if a string is a palindrome.
+	 * This method will check if a string is a palindrome.
 	 * @param string the string to check
 	 * @return true if the string is a palindrome, false otherwise
 	 */
