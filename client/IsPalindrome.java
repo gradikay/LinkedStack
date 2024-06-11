@@ -1,5 +1,5 @@
 /**
- * This Generic Java program checks if a given string
+ * This Java program checks if a given string
  * is a palindrome containing only numbers and letters.
  * @author Gradi Kayamba
  * @version 6/11/24
