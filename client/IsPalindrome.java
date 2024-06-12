@@ -11,6 +11,7 @@ public class IsPalindrome {
      * @return true if the string is a palindrome, false otherwise
      */
     public static boolean isPalindrome(String string) {
+    	if(string.length() == 0) return false;
         String str = string.toLowerCase(); // Change the string to lowercase
         LinkedStack<Character> stack = new LinkedStack<>(); // Create a new stack
 
